@@ -10,6 +10,7 @@ public class Topic1 { public static void main(String[]args) {System.out.println(
  System.out.println("7.What is manual testing?");
  System.out.println("8.SDLC");
  System.out.println("9.STLC");
+ System.out.println("10. End of the Cycle");
 }
  }
 
